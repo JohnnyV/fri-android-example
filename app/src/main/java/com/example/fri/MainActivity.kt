@@ -1,0 +1,5 @@
+package com.example.fri
+
+import androidx.fragment.app.FragmentActivity
+
+class MainActivity : FragmentActivity(R.layout.activity_main)
