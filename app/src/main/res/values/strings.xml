@@ -5,6 +5,7 @@
 
     <string name="btn_important">Important Button</string>
     <string name="btn_log_fcm_token">Log FCM token</string>
+    <string name="btn_request_permission">Request Notification Permission</string>
 
     <!--
         This is the name that users will see when interacting with this channel.
